@@ -3,10 +3,10 @@
 
 ### <div align="center">I'm Sariah! I am a student at Nashville Software School nearing the end of the frontend portion of the course and will be learning backend soon! Welcome to my GitHub!</div>  
 
-#### 🤔 How to pronounce my name: *It's 'Mariah' was an 's'*
-#### 😊 Pronouns: *Sher/Her/Hers*
+### 🤔 How to pronounce my name: *It's 'Mariah' was an 's'*
+### 😊 Pronouns: *Sher/Her/Hers*
 
-### Quick Snapshot
+## Quick Snapshot
 - 🔭 I’m currently working on [The League](https://github.com/scamp925/the-league)  
   
 
