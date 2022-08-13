@@ -3,7 +3,7 @@
 
 ### <div align="center">I'm Sariah! I am a student at Nashville Software School nearing the end of the frontend portion of the course and will be learning backend soon! Welcome to my GitHub!</div>  
 
-### 🤔 How to pronounce my name: *It's 'Mariah' was an 's'*
+### 🤔 How to pronounce my name: *It's 'Mariah' with an 's'*
 ### 😊 Pronouns: *Sher/Her/Hers*
 
 ## Quick Snapshot
@@ -23,7 +23,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -44,7 +44,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,11 +54,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td><</tr></table>  
 
 <br/>  
 
