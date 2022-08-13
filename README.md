@@ -2,8 +2,6 @@
 
 
 ### <div align="center">I'm Sariah! I am a student at Nashville Software School nearing the end of the frontend portion of the course and will be learning backend soon! Welcome to my GitHub!</div>  
-  
-<br/>
 
 #### 🤔 How to pronounce my name: *It's 'Mariah' was an 's'*
 #### 😊 Pronouns: *Sher/Her/Hers*
