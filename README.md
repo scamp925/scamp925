@@ -8,7 +8,6 @@
 🤔 How to pronounce my name: *It's 'Mariah' was an 's'*
 
 😊 Pronouns: *Sher/Her/Hers*
-
 <br/>
 ### Quick Snapshot
 - 🔭 I’m currently working on [The League](https://github.com/scamp925/the-league)  
