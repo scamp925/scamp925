@@ -83,8 +83,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=scamp925&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scamp925&hide_border=true&layout=compact" align="center" /> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=scamp925&show_icons=true&count_private=true&theme=dracula" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scamp925&theme=dracula&layout=compact" align="center" /> 
 </div>
 
   
