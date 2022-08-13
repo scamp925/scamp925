@@ -5,9 +5,9 @@
   
 <br/>
 
-*How to pronounce my name: It's 'Mariah' was an 's'
+<div>*How to pronounce my name: It's 'Mariah' was an 's'
 
-Pronouns: Sher/Her/Hers *  
+Pronouns: Sher/Her/Hers *  </div>
 
 <br/>
 
