@@ -1,7 +1,6 @@
-<img src="https://remote-tools-images.s3.amazonaws.com/programmer-memes/37.jpg" align="center" style="width: 100%" />  
+<img src="https://user-images.githubusercontent.com/98675776/198839540-64f5daa3-a8ec-40d3-80fa-d92692690b8d.png" align="center" style="width: 100%" />
 
-
-### <div align="center">I'm Sariah! I am a student at Nashville Software School nearing the end of the frontend portion of the course and will be learning backend soon! Welcome to my GitHub!</div>  
+### <div align="center">I'm Sariah! I am a student at Nashville Software School learning frontend and backend languages! Welcome to my GitHub!</div>  
 
 ### 🤔 How to pronounce my name: *It's 'Mariah' with an 's'*
 ### 😊 Pronouns: *Sher/Her/Hers*
@@ -24,8 +23,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -88,6 +85,8 @@
 
 
 <br />
+
+<img src="https://remote-tools-images.s3.amazonaws.com/programmer-memes/37.jpg" align="center" style="width: 100%" />  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
