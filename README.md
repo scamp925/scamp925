@@ -43,15 +43,13 @@
 
 </td><td valign="top" width="50%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="hhttps://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/33158051/103467186-7b6a8900-4d1a-11eb-9907-491064bc8458.png" alt="SQLite" height="50" /></a> 
 </div>
-
-</td><</tr></table>  
+</td></tr></table>  
 
 <br/>  
 
