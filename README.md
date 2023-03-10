@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/98675776/198839540-64f5daa3-a8ec-40d3-80fa-d92692690b8d.png" align="center" style="width: 100%" />
 
-### <div align="center">I'm Sariah! I am a student at Nashville Software School learning frontend and backend languages! Welcome to my GitHub!</div>  
+### <div align="center">I'm Sariah! I am a graduate from Nashville Software School looking for my first tech role! Welcome to my GitHub!</div>  
 
-### 🤔 How to pronounce my name: *It's 'Mariah' with an 's'*
+### 🤔 How to pronounce my name: *It's 'Mariah' with an 'S'*
 ### 😊 Pronouns: *Sher/Her/Hers*
 
 ## Quick Snapshot
 - 🔭 I’m currently working on [The League](https://github.com/scamp925/the-league)  
   
 
-- 🌱 I’m currently learning React and Next.js  
+- 🌱 I’m currently learning Python and Django 
   
 
 - ❓ Ask me about anything related to my projects on GitHub  
